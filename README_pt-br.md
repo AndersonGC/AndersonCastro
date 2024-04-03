@@ -9,7 +9,7 @@
     </td>
     <td>
       <b>
-        <a href="https://github.com/AndersonGC/AndersonCastro/blob/main/README.md">🇺🇸 English</a>
+        <a href="https://github.com/AndersonGC/AndersonCastro/blob/master/README.md">🇺🇸 English</a>
       </b>
     </td>
   </tr>

@@ -4,12 +4,12 @@
   <tr>
     <td>
       <b>
-        <a href="https://github.com/AndersonGC/AndersonCastro/blob/main/README_pt-br.md">🇧🇷 Português</a>
+        <a href="https://github.com/AndersonGC/AndersonCastro/blob/master/README_pt-br.md">🇧🇷 Português</a>
       </b>
     </td>
     <td>
       <b>
-        <a href="https://github.com/AndersonGC/AndersonCastro/blob/main/README.md">🇺🇸 English</a>
+        <a href="https://github.com/AndersonGC/AndersonCastro/blob/master/README.md">🇺🇸 English</a>
       </b>
     </td>
   </tr>
